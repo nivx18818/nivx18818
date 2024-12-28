@@ -6,11 +6,29 @@
 
 ###
 
-<h2 align="left">🧑‍💻 About me</h2>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ichigawr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ichigawr" />
+</p>
 
 ###
 
-<p align="left">🌱 I’m currently learning web development.<br>⚡ Fun fact: My nickname, ichigo/ichigawr, comes from my initials (NXV).</p>
+<h2 align="left">🙋‍♂️ Glad to see you here!</h2>
+
+###
+
+<p align="left">I am an aspiring software engineer and problem-solver. I love programming, learning, and exploring new technologies.</p>
+<p align="left">
+  As a coder, I enjoy applying attention to detail and creating efficient, clean code.
+  My passion lies in building things that matter and constantly improving my skills to make a difference.
+</p>
+<p>More about me:</p>
+<ul align="left">
+  <li>🔭 I’m currently working on something cool.</li>
+  <li>🌱 I’m currently learning web development.</li>
+  <li>💬 Ask me about anything, I would love to help.</li>
+  <li>📫 Reach me via: nongami87@gmail.com</li>
+  <li>⚡ Fun fact: My nickname, ichigo/ichigawr, comes from my initials (NXV).</li>
+</ul>
 
 ###
 
