@@ -15,10 +15,11 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           ### content
           SHOW_TITLE: true # Add title to waka-readme stats blob
           SECTION_NAME: waka # The generator will look for section name to fill up the readme
-          BLOCKS: ░▒▓█ # Ascii art used to build stats graph
+          BLOCKS: ░█ # Ascii art used to build stats graph
           CODE_LANG: txt # Language syntax based highlighted tex
           TIME_RANGE: all_time # String representing a dispensation from which stats are aggregated
             # last_7_days, last_30_days, last_6_months, last_year, all_time
