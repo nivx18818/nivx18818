@@ -55,49 +55,21 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=ichigawr" height="150" alt="stats graph"  />
   </picture>
-  <!-- Top Languages Card -->
+  <!-- Streak Card -->
   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ichigawr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ichigawr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&order=2"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ichigawr" height="150" alt="languages graph" />
-  </picture>
+      <source
+        srcset="https://streak-stats.demolab.com?user=ichigawr&locale=en&mode=weekly&theme=dracula&hide_border=true&order=3"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://streak-stats.demolab.com?user=ichigawr&locale=en&mode=weekly&order=3"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://streak-stats.demolab.com?user=ichigawr" height="150" alt="streak graph"  />
+    </picture>
 </div>
 
-<div align="center">
-<picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=ichigawr&locale=en&mode=weekly&theme=dracula&hide_border=true&order=3"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com?user=ichigawr&locale=en&mode=weekly&order=3"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://streak-stats.demolab.com?user=ichigawr" height="235" alt="streak graph"  />
-  </picture>
-</div>
+<h3>⌚ Wakatime</h3>
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 12 September 2024 - To: 28 December 2024
-
-Total Time: 207 hrs 22 mins
-
-Java              57 hrs 42 mins  ███████░░░░░░░░░░░░░░░░░░   27.57 %
-HTML              55 hrs 16 mins  ███████░░░░░░░░░░░░░░░░░░   26.41 %
-SCSS              32 hrs 54 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
-CSS               30 hrs 41 mins  ████░░░░░░░░░░░░░░░░░░░░░   14.66 %
-JavaScript        20 hrs 8 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-C++               4 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-XML               1 hr 59 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Other             1 hr 54 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-```
-
 <!--END_SECTION:waka-->
