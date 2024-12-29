@@ -28,7 +28,7 @@
   <li>🔭 I’m currently working on something cool.</li>
   <li>🌱 I’m currently learning web development.</li>
   <li>💬 Ask me about anything, I would love to help.</li>
-  <li>📫 Reach me via: nongami87@gmail.com</li>
+  <li>📫 Reach me via: <a href="mailto:nongami87@gmail.com">nongami87@gmail.com</a> (Personal).</li>
   <li>⚡ Fun fact: My nickname, ichigo/ichigawr, comes from my initials (NXV).</li>
 </ul>
 
