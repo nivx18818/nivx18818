@@ -1,0 +1,41 @@
+name: Waka Readme
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC (5:30 AM IST)
+    - cron: "0 17 * * *"
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          LOCALE: "en"
+          SECTION_NAME: "waka"
+          COMMIT_MESSAGE: 'docs: updated waka-readme graph with new metrics'
+          COMMIT_USERNAME: "github-actions[bot]"
+          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+          SHOW_UPDATED_DATE: "true" # show updated date in end of paragraph
+          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
+          SHOW_LINES_OF_CODE: "true" # show the lines of code written till date
+          SHOW_TOTAL_CODE_TIME: "true"
+          SHOW_PROFILE_VIEWS: "true"
+          SHOW_COMMIT: "true" # show the commit stats
+          SHOW_DAYS_OF_WEEK: "false" # show the commits made on different days of week
+          SHOW_LANGUAGE: "true" # show the languages used
+          SHOW_OS: "false" # show the OS details
+          SHOW_PROJECTS: "true" # show the projects worked on
+          SHOW_TIMEZONE: "true" # show the time zone you are in
+          SHOW_EDITORS: "false" # show the list of code-editors used
+          SHOW_LANGUAGE_PER_REPO: "true" # show the number of repository in different language and frameworks
+          SHOW_SHORT_INFO: "true" # show the short fun fact info of user
+          SHOW_LOC_CHART: "false" # show the lines of code written in different quarters of different year
+          IGNORED_REPOS: "f8-fullstack-k12" # ignore repos you don’t want to be counted
+          SYMBOL_VERSION: 1
+          DEBUG_LOGGING:
