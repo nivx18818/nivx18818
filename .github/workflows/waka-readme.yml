@@ -4,7 +4,7 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
+    # runs at 12 AM UTC+7
     - cron: "0 17 * * *"
 
 jobs:
@@ -12,29 +12,54 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          LOCALE: "en"
-          SECTION_NAME: "waka"
-          COMMIT_MESSAGE: 'docs: updated waka-readme graph with new metrics'
-          COMMIT_USERNAME: "github-actions[bot]"
-          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
-          SHOW_UPDATED_DATE: "true" # show updated date in end of paragraph
-          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
-          SHOW_LINES_OF_CODE: "true" # show the lines of code written till date
-          SHOW_TOTAL_CODE_TIME: "true"
-          SHOW_PROFILE_VIEWS: "true"
-          SHOW_COMMIT: "true" # show the commit stats
-          SHOW_DAYS_OF_WEEK: "false" # show the commits made on different days of week
-          SHOW_LANGUAGE: "true" # show the languages used
-          SHOW_OS: "false" # show the OS details
-          SHOW_PROJECTS: "true" # show the projects worked on
-          SHOW_TIMEZONE: "true" # show the time zone you are in
-          SHOW_EDITORS: "false" # show the list of code-editors used
-          SHOW_LANGUAGE_PER_REPO: "true" # show the number of repository in different language and frameworks
-          SHOW_SHORT_INFO: "true" # show the short fun fact info of user
-          SHOW_LOC_CHART: "false" # show the lines of code written in different quarters of different year
-          IGNORED_REPOS: "f8-fullstack-k12" # ignore repos you don’t want to be counted
-          SYMBOL_VERSION: 1
+          ### content
+          SHOW_TITLE: true # Add title to waka-readme stats blob
+          SECTION_NAME: waka # The generator will look for section name to fill up the readme
+          BLOCKS: ░▒▓█ # Ascii art used to build stats graph
+          CODE_LANG: txt # Language syntax based highlighted tex
+          TIME_RANGE: all_time # String representing a dispensation from which stats are aggregated
+            # last_7_days, last_30_days, last_6_months, last_year, all_time
+          LANG_COUNT: 10 # Number of languages to be displayed
+          SHOW_TIME: true # Displays the amount of time spent for each language
+          SHOW_TOTAL: true # Show total coding time
+          SHOW_MASKED_TIME: false # Adds total coding time including unclassified languages (overrides: SHOW_TOTAL)
+          STOP_AT_OTHER: true # Stop when language marked as Other is retrieved (overrides: LANG_COUNT)
+          IGNORED_LANGUAGES: YAML JSON TOML # Hide languages from your stats
+          ### commit
+          COMMIT_MESSAGE: "docs: updated waka-readme graph with new metrics"
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
+          COMMITTER_NAME: github-actions[bot]
+          COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          AUTHOR_NAME: NguyenXuanVinh
+          AUTHOR_EMAIL: nongami87@gmail.com
+
+      # - uses: anmol098/waka-readme-stats@master
+      #   with:
+      #     WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      #     GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      #     LOCALE: "en"
+      #     SECTION_NAME: "waka"
+      #     COMMIT_MESSAGE: "docs: updated waka-readme graph with new metrics"
+      #     COMMIT_USERNAME: "github-actions[bot]"
+      #     COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
+      #     SHOW_UPDATED_DATE: "false" # show updated date in end of paragraph
+      #     UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
+      #     SHOW_LINES_OF_CODE: "true" # show the lines of code written till date
+      #     SHOW_TOTAL_CODE_TIME: "true"
+      #     SHOW_PROFILE_VIEWS: "true"
+      #     SHOW_COMMIT: "true" # show the commit stats
+      #     SHOW_DAYS_OF_WEEK: "false" # show the commits made on different days of week
+      #     SHOW_LANGUAGE: "true" # show the languages used
+      #     SHOW_OS: "false" # show the OS details
+      #     SHOW_PROJECTS: "true" # show the projects worked on
+      #     SHOW_TIMEZONE: "false" # show the time zone you are in
+      #     SHOW_EDITORS: "false" # show the list of code-editors used
+      #     SHOW_LANGUAGE_PER_REPO: "false" # show the number of repository in different language and frameworks
+      #     SHOW_SHORT_INFO: "true" # show the short fun fact info of user
+      #     SHOW_LOC_CHART: "false" # show the lines of code written in different quarters of different year
+      #     IGNORED_REPOS: "f8-fullstack-k12" # ignore repos you don’t want to be counted
+      #     SYMBOL_VERSION: 1
