@@ -38,4 +38,3 @@ jobs:
           SHOW_LOC_CHART: "false" # show the lines of code written in different quarters of different year
           IGNORED_REPOS: "f8-fullstack-k12" # ignore repos you don’t want to be counted
           SYMBOL_VERSION: 1
-          DEBUG_LOGGING:
