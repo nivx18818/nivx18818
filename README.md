@@ -61,16 +61,16 @@
   </picture>
   <!-- Streak Card -->
   <picture>
-      <source
-        srcset="https://streak-stats.demolab.com?user=ichigawr&locale=en&mode=weekly&theme=dracula&hide_border=true&order=3"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://streak-stats.demolab.com?user=ichigawr&locale=en&mode=weekly&order=3"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://streak-stats.demolab.com?user=ichigawr" height="150" alt="streak graph"  />
-    </picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=ichigawr&locale=en&theme=dracula&hide_border=true&order=3"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=ichigawr&locale=en&order=3"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://streak-stats.demolab.com?user=ichigawr" height="150" alt="streak graph"  />
+  </picture>
 </div>
 
 <h3>⌚ Wakatime</h3>
