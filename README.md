@@ -62,14 +62,14 @@
   <!-- Streak Card -->
   <picture>
     <source
-      srcset="https://streak-stats.demolab.com?user=ichigawr&locale=en&theme=dracula&hide_border=true&order=3"
+      srcset="https://github-readme-streak-stats-ichigawr.vercel.app?user=ichigawr&locale=en&theme=dracula&hide_border=true&order=3"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://streak-stats.demolab.com?user=ichigawr&locale=en&order=3"
+      srcset="https://github-readme-streak-stats-ichigawr.vercel.app?user=ichigawr&locale=en&order=3"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://streak-stats.demolab.com?user=ichigawr" height="150" alt="streak graph"  />
+    <img src="https://github-readme-streak-stats-ichigawr.vercel.app?user=ichigawr" height="150" alt="streak graph"  />
   </picture>
 </div>
 
