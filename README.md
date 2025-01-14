@@ -42,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="60" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="60" alt="cplusplus logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="60" alt="java logo" />
+  <!-- <img src="https://skillicons.dev/icons?i=html,css,sass,figma,js,cpp,java,git,github" alt="dev icons" /> -->
 </div>
 
 <h2 align="left">🔥 My stats</h2>
