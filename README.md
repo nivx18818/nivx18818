@@ -35,7 +35,7 @@
 <p>More about me:</p>
 
 <ul align="left">
-  <li>🔭 I’m currently working on something cool.</li>
+  <li>🔭 I’m currently working on a clone of Discord.</li>
   <li>🌱 I’m currently learning web development.</li>
   <li>💬 Ask me about anything, I would love to help.</li>
   <li>📫 Reach me via: <a href="mailto:nongami87@gmail.com">nongami87@gmail.com</a> (Personal).</li>
@@ -50,6 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="60" alt="sass logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="60" alt="figma logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="60" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="60" alt="react logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="60" alt="cplusplus logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="60" alt="java logo" />
   <!-- <img src="https://skillicons.dev/icons?i=html,css,sass,figma,js,cpp,java,git,github" alt="dev icons" /> -->
