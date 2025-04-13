@@ -1,13 +1,3 @@
-<div align="center">
-  <img
-    src="assets/banner.png"
-    alt="banner"
-  />
-</div>
-
-<br />
-<br />
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&center=true&width=435&height=50&lines=%3E+Hi+%F0%9F%91%8B%2C+;I'm+Vinh" alt="> Hi 👋, I'm Vinh" />
 </p>
