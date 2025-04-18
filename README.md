@@ -29,7 +29,7 @@
   <li>🌱 I’m currently learning web development.</li>
   <li>💬 Ask me about anything, I would love to help.</li>
   <li>📫 Reach me via: <a href="mailto:nongami87@gmail.com">nongami87@gmail.com</a> (Personal).</li>
-  <li>⚡ Fun fact: My nickname, ichigo/ichigawr, comes from my initials (NXV).</li>
+  <li>⚡ Fun fact: My nickname, nivx18818, comes from my name (XuanVinh).</li>
 </ul>
 
 <h2 align="left">🔧 I code with</h2>
