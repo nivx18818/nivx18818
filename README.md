@@ -59,7 +59,7 @@
       srcset="https://github-readme-stats.vercel.app/api?username=nivx18818&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&order=1"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=nivx18818" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=nivx18818" height="150" alt="stats graph" />
   </picture>
   <!-- Streak Card -->
   <picture>
@@ -71,7 +71,7 @@
       srcset="https://github-readme-streak-stats-nivx18818.vercel.app?user=nivx18818&locale=en&order=3"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-streak-stats-nivx18818.vercel.app?user=nivx18818" height="150" alt="streak graph"  />
+    <img src="https://github-readme-streak-stats-nivx18818.vercel.app?user=nivx18818" height="150" alt="streak graph" />
   </picture>
 </div>
 
