@@ -15,12 +15,7 @@
 
 <h2 align="left">🙋‍♂️ Glad to see you here!</h2>
 
-<p align="left">I am an aspiring software engineer and problem-solver. I love programming, learning, and exploring new technologies.</p>
-
-<p align="left">
-  As a coder, I enjoy applying attention to detail and creating efficient, clean code.
-  My passion lies in building things that matter and constantly improving my skills to make a difference.
-</p>
+<p align="left">I'm a computer science student aspiring to become a software engineer. I love programming, problem-solving, and exploring new technologies. I'm passionate about writing clean, efficient code and continuously improving my skills to build meaningful projects.</p>
 
 <p>More about me:</p>
 
