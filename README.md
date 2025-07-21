@@ -59,11 +59,11 @@
   <!-- Streak Card -->
   <picture>
     <source
-      srcset="https://github-readme-streak-stats-nivx18818.vercel.app?user=nivx18818&locale=en&theme=dracula&hide_border=true&order=3"
+      srcset="https://github-readme-streak-stats-nivx.vercel.app?user=nivx18818&locale=en&theme=dracula&hide_border=true&order=3"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats-nivx18818.vercel.app?user=nivx18818&locale=en&order=3"
+      srcset="https://github-readme-streak-stats-nivx.vercel.app?user=nivx18818&locale=en&order=3"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-streak-stats-nivx18818.vercel.app?user=nivx18818" height="150" alt="streak graph" />
