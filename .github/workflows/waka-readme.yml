@@ -30,7 +30,7 @@ jobs:
           STOP_AT_OTHER: true # Stop when language marked as Other is retrieved (overrides: LANG_COUNT)
           IGNORED_LANGUAGES: YAML JSON TOML # Hide languages from your stats
           ### commit
-          COMMIT_MESSAGE: "docs: updated waka-readme graph with new metrics"
+          COMMIT_MESSAGE: "chore(readme): update waka-readme graph with new metrics"
           TARGET_BRANCH: main
           TARGET_PATH: README.md
           COMMITTER_NAME: github-actions[bot]
