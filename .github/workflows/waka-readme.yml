@@ -35,8 +35,8 @@ jobs:
           TARGET_PATH: README.md
           COMMITTER_NAME: github-actions[bot]
           COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
-          AUTHOR_NAME: NguyenXuanVinh
-          AUTHOR_EMAIL: nongami87@gmail.com
+          AUTHOR_NAME: NOT_SET
+          AUTHOR_EMAIL: NOT_SET
 
       # - uses: anmol098/waka-readme-stats@master
       #   with:
