@@ -83,16 +83,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2024 - To: 24 June 2026
+From: 12 September 2024 - To: 25 June 2026
 
-Total Time: 1,361 hrs 57 mins
+Total Time: 1,362 hrs 46 mins
 
-JavaScript           440 hrs 6 mins        🌕🌕🌕🌕🌕🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   31.44 %
-TypeScript           205 hrs 5 mins        🌕🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   14.65 %
-C++                  117 hrs 3 mins        🌕🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   08.36 %
-Markdown             82 hrs 26 mins        🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   05.89 %
+JavaScript           440 hrs 6 mins        🌕🌕🌕🌕🌕🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   31.43 %
+TypeScript           205 hrs 25 mins       🌕🌕🌕🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   14.67 %
+C++                  117 hrs 20 mins       🌕🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   08.38 %
+Markdown             82 hrs 34 mins        🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   05.90 %
 CSS                  81 hrs 55 mins        🌕🌗🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   05.85 %
-HTML                 73 hrs 17 mins        🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   05.24 %
+HTML                 73 hrs 17 mins        🌕🌘🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   05.23 %
 Java                 58 hrs 30 mins        🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   04.18 %
 Lua                  43 hrs 42 mins        🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   03.12 %
 Other                37 hrs 42 mins        🌖🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   02.69 %
