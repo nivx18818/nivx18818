@@ -12,7 +12,7 @@
   <li>🔭 I'm currently working on a clone of Discord.</li>
   <li>🌱 I'm currently learning web development.</li>
   <li>📫 Reach me via: <a href="mailto:nongami87@gmail.com">nongami87@gmail.com</a> (Personal).</li>
-  <li>⚡ Fun fact: My nickname, nivx18818, comes from my name (XuanVinh).</li>
+  <li>⚡ Fun fact: My nickname, 0x6e697678, comes from my name (XuanVinh).</li>
 </ul>
 
 <h2 align="left">🔧 I code with</h2>
@@ -55,26 +55,26 @@
   <!-- Stats Card -->
   <picture>
     <source
-      srcset="https://github-readme-stats-nivx.vercel.app/api?username=nivx18818&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
+      srcset="https://github-readme-stats-nivx.vercel.app/api?username=0x6e697678&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-nivx.vercel.app/api?username=nivx18818&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&order=1"
+      srcset="https://github-readme-stats-nivx.vercel.app/api?username=0x6e697678&hide_title=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&order=1"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-nivx.vercel.app/api?username=nivx18818" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats-nivx.vercel.app/api?username=0x6e697678" height="150" alt="stats graph" />
   </picture>
   <!-- Streak Card -->
   <picture>
     <source
-      srcset="https://github-readme-streak-stats-nivx.vercel.app?user=nivx18818&locale=en&theme=dracula&hide_border=true&order=3"
+      srcset="https://github-readme-streak-stats-nivx.vercel.app?user=0x6e697678&locale=en&theme=dracula&hide_border=true&order=3"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats-nivx.vercel.app?user=nivx18818&locale=en&order=3"
+      srcset="https://github-readme-streak-stats-nivx.vercel.app?user=0x6e697678&locale=en&order=3"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-streak-stats-nivx18818.vercel.app?user=nivx18818" height="150" alt="streak graph" />
+    <img src="https://github-readme-streak-stats-0x6e697678.vercel.app?user=0x6e697678" height="150" alt="streak graph" />
   </picture>
 </div>
 
